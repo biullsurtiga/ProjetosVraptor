@@ -1,3 +1,5 @@
+package br.com.utils;
+
 import br.com.models.Categoria;
 import br.com.utils.CategoriaRepository;
 import br.com.utils.GenericBusiness;

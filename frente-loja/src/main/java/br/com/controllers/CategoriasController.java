@@ -10,7 +10,7 @@ import br.com.caelum.vraptor.Path;
 import br.com.caelum.vraptor.Post;
 import br.com.caelum.vraptor.view.Results;
 import br.com.models.Categoria;
-import br.com.repositories.CategoriaRepository;
+import br.com.utils.CategoriaRepository;
 import br.com.utils.GenericController;
 
 @Controller
